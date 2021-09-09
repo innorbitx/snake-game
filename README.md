@@ -1,2 +1,2 @@
-# snake-game
-A game created to make Karyna's dream come true 
+# Snake Game
+A game created to make Karyna's dream come true 🤠
